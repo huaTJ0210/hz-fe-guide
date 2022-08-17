@@ -1,0 +1,311 @@
+2021-11-13 10:24:35,814 INFO 5657 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:24:35,849 INFO 5657 [egg-multipart] stream mode enable
+2021-11-13 10:24:35,944 INFO 5657 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:24:35,946 INFO 5657 [egg-security] use csrf middleware
+2021-11-13 10:24:35,947 INFO 5657 [egg-security] use methodnoallow middleware
+2021-11-13 10:24:35,947 INFO 5657 [egg-security] use noopen middleware
+2021-11-13 10:24:35,948 INFO 5657 [egg-security] use nosniff middleware
+2021-11-13 10:24:35,948 INFO 5657 [egg-security] use xssProtection middleware
+2021-11-13 10:24:35,949 INFO 5657 [egg-security] use xframe middleware
+2021-11-13 10:24:35,950 INFO 5657 [egg-security] use dta middleware
+2021-11-13 10:24:35,950 INFO 5657 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:24:35,963 INFO 5657 [egg:core] dump config after load, 7ms
+2021-11-13 10:24:36,003 INFO 5657 [egg-watcher:application] watcher start success
+2021-11-13 10:24:36,010 INFO 5657 [egg:core] dump config after ready, 5ms
+2021-11-13 10:36:02,324 INFO 5907 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:02,362 INFO 5907 [egg-multipart] stream mode enable
+2021-11-13 10:36:02,530 INFO 5907 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:02,533 INFO 5907 [egg-security] use csrf middleware
+2021-11-13 10:36:02,534 INFO 5907 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:02,535 INFO 5907 [egg-security] use noopen middleware
+2021-11-13 10:36:02,536 INFO 5907 [egg-security] use nosniff middleware
+2021-11-13 10:36:02,537 INFO 5907 [egg-security] use xssProtection middleware
+2021-11-13 10:36:02,538 INFO 5907 [egg-security] use xframe middleware
+2021-11-13 10:36:02,539 INFO 5907 [egg-security] use dta middleware
+2021-11-13 10:36:02,539 INFO 5907 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:02,559 INFO 5907 [egg:core] dump config after load, 11ms
+2021-11-13 10:36:02,570 INFO 5907 [egg-watcher:application] watcher start success
+2021-11-13 10:36:02,581 INFO 5907 [egg:core] dump config after ready, 9ms
+2021-11-13 10:36:06,751 INFO 5913 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:06,844 INFO 5913 [egg-multipart] stream mode enable
+2021-11-13 10:36:07,038 INFO 5913 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:07,041 INFO 5913 [egg-security] use csrf middleware
+2021-11-13 10:36:07,042 INFO 5913 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:07,042 INFO 5913 [egg-security] use noopen middleware
+2021-11-13 10:36:07,043 INFO 5913 [egg-security] use nosniff middleware
+2021-11-13 10:36:07,043 INFO 5913 [egg-security] use xssProtection middleware
+2021-11-13 10:36:07,044 INFO 5913 [egg-security] use xframe middleware
+2021-11-13 10:36:07,044 INFO 5913 [egg-security] use dta middleware
+2021-11-13 10:36:07,044 INFO 5913 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:07,064 INFO 5913 [egg:core] dump config after load, 7ms
+2021-11-13 10:36:07,162 INFO 5913 [egg-watcher:application] watcher start success
+2021-11-13 10:36:07,265 INFO 5913 [egg:core] dump config after ready, 95ms
+2021-11-13 10:36:09,499 INFO 5923 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:09,547 INFO 5923 [egg-multipart] stream mode enable
+2021-11-13 10:36:09,681 INFO 5923 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:09,683 INFO 5923 [egg-security] use csrf middleware
+2021-11-13 10:36:09,684 INFO 5923 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:09,685 INFO 5923 [egg-security] use noopen middleware
+2021-11-13 10:36:09,685 INFO 5923 [egg-security] use nosniff middleware
+2021-11-13 10:36:09,694 INFO 5923 [egg-security] use xssProtection middleware
+2021-11-13 10:36:09,695 INFO 5923 [egg-security] use xframe middleware
+2021-11-13 10:36:09,696 INFO 5923 [egg-security] use dta middleware
+2021-11-13 10:36:09,696 INFO 5923 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:09,711 INFO 5923 [egg:core] dump config after load, 6ms
+2021-11-13 10:36:10,094 INFO 5923 [egg-watcher:application] watcher start success
+2021-11-13 10:36:09,533 INFO 5924 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:09,591 INFO 5924 [egg-multipart] stream mode enable
+2021-11-13 10:36:10,023 INFO 5924 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:10,038 INFO 5924 [egg-security] use csrf middleware
+2021-11-13 10:36:10,039 INFO 5924 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:10,040 INFO 5924 [egg-security] use noopen middleware
+2021-11-13 10:36:10,046 INFO 5924 [egg-security] use nosniff middleware
+2021-11-13 10:36:10,054 INFO 5924 [egg-security] use xssProtection middleware
+2021-11-13 10:36:10,056 INFO 5924 [egg-security] use xframe middleware
+2021-11-13 10:36:10,057 INFO 5924 [egg-security] use dta middleware
+2021-11-13 10:36:10,057 INFO 5924 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:10,249 INFO 5924 [egg:core] dump config after load, 168ms
+2021-11-13 10:36:10,355 INFO 5924 [egg-watcher:application] watcher start success
+2021-11-13 10:36:10,375 INFO 5924 [egg:core] dump config after ready, 15ms
+2021-11-13 10:36:16,028 INFO 5933 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:16,060 INFO 5933 [egg-multipart] stream mode enable
+2021-11-13 10:36:16,143 INFO 5933 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:16,146 INFO 5933 [egg-security] use csrf middleware
+2021-11-13 10:36:16,146 INFO 5933 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:16,147 INFO 5933 [egg-security] use noopen middleware
+2021-11-13 10:36:16,147 INFO 5933 [egg-security] use nosniff middleware
+2021-11-13 10:36:16,148 INFO 5933 [egg-security] use xssProtection middleware
+2021-11-13 10:36:16,148 INFO 5933 [egg-security] use xframe middleware
+2021-11-13 10:36:16,149 INFO 5933 [egg-security] use dta middleware
+2021-11-13 10:36:16,149 INFO 5933 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:16,160 INFO 5933 [egg:core] dump config after load, 6ms
+2021-11-13 10:36:16,172 INFO 5933 [egg-watcher:application] watcher start success
+2021-11-13 10:36:16,182 INFO 5933 [egg:core] dump config after ready, 5ms
+2021-11-13 10:36:17,712 INFO 5939 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:17,745 INFO 5939 [egg-multipart] stream mode enable
+2021-11-13 10:36:17,833 INFO 5939 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:17,836 INFO 5939 [egg-security] use csrf middleware
+2021-11-13 10:36:17,837 INFO 5939 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:17,838 INFO 5939 [egg-security] use noopen middleware
+2021-11-13 10:36:17,839 INFO 5939 [egg-security] use nosniff middleware
+2021-11-13 10:36:17,840 INFO 5939 [egg-security] use xssProtection middleware
+2021-11-13 10:36:17,841 INFO 5939 [egg-security] use xframe middleware
+2021-11-13 10:36:17,842 INFO 5939 [egg-security] use dta middleware
+2021-11-13 10:36:17,842 INFO 5939 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:17,857 INFO 5939 [egg:core] dump config after load, 7ms
+2021-11-13 10:36:17,869 INFO 5939 [egg-watcher:application] watcher start success
+2021-11-13 10:36:17,878 INFO 5939 [egg:core] dump config after ready, 7ms
+2021-11-13 10:36:20,872 INFO 5940 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:36:20,904 INFO 5940 [egg-multipart] stream mode enable
+2021-11-13 10:36:20,986 INFO 5940 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:36:20,989 INFO 5940 [egg-security] use csrf middleware
+2021-11-13 10:36:20,991 INFO 5940 [egg-security] use methodnoallow middleware
+2021-11-13 10:36:20,991 INFO 5940 [egg-security] use noopen middleware
+2021-11-13 10:36:20,992 INFO 5940 [egg-security] use nosniff middleware
+2021-11-13 10:36:20,993 INFO 5940 [egg-security] use xssProtection middleware
+2021-11-13 10:36:20,993 INFO 5940 [egg-security] use xframe middleware
+2021-11-13 10:36:20,994 INFO 5940 [egg-security] use dta middleware
+2021-11-13 10:36:20,994 INFO 5940 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:36:21,009 INFO 5940 [egg:core] dump config after load, 6ms
+2021-11-13 10:36:21,024 INFO 5940 [egg-watcher:application] watcher start success
+2021-11-13 10:36:21,031 INFO 5940 [egg:core] dump config after ready, 5ms
+2021-11-13 10:37:47,125 INFO 5981 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:37:47,209 INFO 5981 [egg-multipart] stream mode enable
+2021-11-13 10:37:47,357 INFO 5981 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:37:47,361 INFO 5981 [egg-security] use csrf middleware
+2021-11-13 10:37:47,362 INFO 5981 [egg-security] use methodnoallow middleware
+2021-11-13 10:37:47,363 INFO 5981 [egg-security] use noopen middleware
+2021-11-13 10:37:47,364 INFO 5981 [egg-security] use nosniff middleware
+2021-11-13 10:37:47,365 INFO 5981 [egg-security] use xssProtection middleware
+2021-11-13 10:37:47,366 INFO 5981 [egg-security] use xframe middleware
+2021-11-13 10:37:47,367 INFO 5981 [egg-security] use dta middleware
+2021-11-13 10:37:47,367 INFO 5981 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:37:47,379 INFO 5981 [egg:core] dump config after load, 4ms
+2021-11-13 10:37:47,389 INFO 5981 [egg-watcher:application] watcher start success
+2021-11-13 10:37:47,397 INFO 5981 [egg:core] dump config after ready, 6ms
+2021-11-13 10:37:49,866 INFO 5988 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:37:49,943 INFO 5988 [egg-multipart] stream mode enable
+2021-11-13 10:37:50,069 INFO 5988 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:37:50,071 INFO 5988 [egg-security] use csrf middleware
+2021-11-13 10:37:50,072 INFO 5988 [egg-security] use methodnoallow middleware
+2021-11-13 10:37:50,073 INFO 5988 [egg-security] use noopen middleware
+2021-11-13 10:37:50,074 INFO 5988 [egg-security] use nosniff middleware
+2021-11-13 10:37:50,074 INFO 5988 [egg-security] use xssProtection middleware
+2021-11-13 10:37:50,075 INFO 5988 [egg-security] use xframe middleware
+2021-11-13 10:37:50,076 INFO 5988 [egg-security] use dta middleware
+2021-11-13 10:37:50,076 INFO 5988 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:37:50,088 INFO 5988 [egg:core] dump config after load, 5ms
+2021-11-13 10:37:50,109 INFO 5988 [egg-watcher:application] watcher start success
+2021-11-13 10:37:50,121 INFO 5988 [egg:core] dump config after ready, 7ms
+2021-11-13 10:37:54,145 INFO 5997 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:37:54,181 INFO 5997 [egg-multipart] stream mode enable
+2021-11-13 10:37:54,267 INFO 5997 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:37:54,269 INFO 5997 [egg-security] use csrf middleware
+2021-11-13 10:37:54,270 INFO 5997 [egg-security] use methodnoallow middleware
+2021-11-13 10:37:54,270 INFO 5997 [egg-security] use noopen middleware
+2021-11-13 10:37:54,270 INFO 5997 [egg-security] use nosniff middleware
+2021-11-13 10:37:54,271 INFO 5997 [egg-security] use xssProtection middleware
+2021-11-13 10:37:54,271 INFO 5997 [egg-security] use xframe middleware
+2021-11-13 10:37:54,271 INFO 5997 [egg-security] use dta middleware
+2021-11-13 10:37:54,272 INFO 5997 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:37:54,282 INFO 5997 [egg:core] dump config after load, 5ms
+2021-11-13 10:37:54,301 INFO 5997 [egg-watcher:application] watcher start success
+2021-11-13 10:37:54,312 INFO 5997 [egg:core] dump config after ready, 8ms
+2021-11-13 10:38:03,113 INFO 6007 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:38:03,142 INFO 6007 [egg-multipart] stream mode enable
+2021-11-13 10:38:03,227 INFO 6007 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:38:03,229 INFO 6007 [egg-security] use csrf middleware
+2021-11-13 10:38:03,230 INFO 6007 [egg-security] use methodnoallow middleware
+2021-11-13 10:38:03,231 INFO 6007 [egg-security] use noopen middleware
+2021-11-13 10:38:03,231 INFO 6007 [egg-security] use nosniff middleware
+2021-11-13 10:38:03,231 INFO 6007 [egg-security] use xssProtection middleware
+2021-11-13 10:38:03,232 INFO 6007 [egg-security] use xframe middleware
+2021-11-13 10:38:03,232 INFO 6007 [egg-security] use dta middleware
+2021-11-13 10:38:03,232 INFO 6007 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:38:03,249 INFO 6007 [egg:core] dump config after load, 9ms
+2021-11-13 10:38:03,263 INFO 6007 [egg-watcher:application] watcher start success
+2021-11-13 10:38:03,280 INFO 6007 [egg:core] dump config after ready, 15ms
+2021-11-13 10:38:44,775 INFO 6034 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:38:44,807 INFO 6034 [egg-multipart] stream mode enable
+2021-11-13 10:38:45,002 INFO 6034 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:38:45,006 INFO 6034 [egg-security] use csrf middleware
+2021-11-13 10:38:45,007 INFO 6034 [egg-security] use methodnoallow middleware
+2021-11-13 10:38:45,008 INFO 6034 [egg-security] use noopen middleware
+2021-11-13 10:38:45,008 INFO 6034 [egg-security] use nosniff middleware
+2021-11-13 10:38:45,009 INFO 6034 [egg-security] use xssProtection middleware
+2021-11-13 10:38:45,010 INFO 6034 [egg-security] use xframe middleware
+2021-11-13 10:38:45,011 INFO 6034 [egg-security] use dta middleware
+2021-11-13 10:38:45,011 INFO 6034 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:38:45,023 INFO 6034 [egg:core] dump config after load, 5ms
+2021-11-13 10:38:45,032 INFO 6034 [egg-watcher:application] watcher start success
+2021-11-13 10:38:45,074 INFO 6034 [egg:core] dump config after ready, 35ms
+2021-11-13 10:38:46,626 INFO 6038 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:38:46,657 INFO 6038 [egg-multipart] stream mode enable
+2021-11-13 10:38:46,748 INFO 6038 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:38:46,750 INFO 6038 [egg-security] use csrf middleware
+2021-11-13 10:38:46,752 INFO 6038 [egg-security] use methodnoallow middleware
+2021-11-13 10:38:46,752 INFO 6038 [egg-security] use noopen middleware
+2021-11-13 10:38:46,754 INFO 6038 [egg-security] use nosniff middleware
+2021-11-13 10:38:46,755 INFO 6038 [egg-security] use xssProtection middleware
+2021-11-13 10:38:46,756 INFO 6038 [egg-security] use xframe middleware
+2021-11-13 10:38:46,757 INFO 6038 [egg-security] use dta middleware
+2021-11-13 10:38:46,757 INFO 6038 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:38:46,772 INFO 6038 [egg:core] dump config after load, 7ms
+2021-11-13 10:38:46,914 INFO 6038 [egg-watcher:application] watcher start success
+2021-11-13 10:38:46,981 INFO 6038 [egg:core] dump config after ready, 38ms
+2021-11-13 10:38:49,142 INFO 6045 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:38:49,174 INFO 6045 [egg-multipart] stream mode enable
+2021-11-13 10:38:49,257 INFO 6045 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:38:49,260 INFO 6045 [egg-security] use csrf middleware
+2021-11-13 10:38:49,260 INFO 6045 [egg-security] use methodnoallow middleware
+2021-11-13 10:38:49,261 INFO 6045 [egg-security] use noopen middleware
+2021-11-13 10:38:49,261 INFO 6045 [egg-security] use nosniff middleware
+2021-11-13 10:38:49,262 INFO 6045 [egg-security] use xssProtection middleware
+2021-11-13 10:38:49,262 INFO 6045 [egg-security] use xframe middleware
+2021-11-13 10:38:49,263 INFO 6045 [egg-security] use dta middleware
+2021-11-13 10:38:49,263 INFO 6045 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:38:49,275 INFO 6045 [egg:core] dump config after load, 7ms
+2021-11-13 10:38:49,288 INFO 6045 [egg-watcher:application] watcher start success
+2021-11-13 10:38:49,297 INFO 6045 [egg:core] dump config after ready, 6ms
+2021-11-13 10:39:10,409 INFO 6052 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:39:10,527 INFO 6052 [egg-multipart] stream mode enable
+2021-11-13 10:39:10,698 INFO 6052 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:39:10,702 INFO 6052 [egg-security] use csrf middleware
+2021-11-13 10:39:10,703 INFO 6052 [egg-security] use methodnoallow middleware
+2021-11-13 10:39:10,704 INFO 6052 [egg-security] use noopen middleware
+2021-11-13 10:39:10,706 INFO 6052 [egg-security] use nosniff middleware
+2021-11-13 10:39:10,707 INFO 6052 [egg-security] use xssProtection middleware
+2021-11-13 10:39:10,708 INFO 6052 [egg-security] use xframe middleware
+2021-11-13 10:39:10,709 INFO 6052 [egg-security] use dta middleware
+2021-11-13 10:39:10,709 INFO 6052 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:39:10,744 INFO 6052 [egg:core] dump config after load, 21ms
+2021-11-13 10:39:10,769 INFO 6052 [egg-watcher:application] watcher start success
+2021-11-13 10:39:10,795 INFO 6052 [egg:core] dump config after ready, 15ms
+2021-11-13 10:39:16,262 INFO 6059 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:39:16,405 INFO 6059 [egg-multipart] stream mode enable
+2021-11-13 10:39:16,607 INFO 6059 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:39:16,613 INFO 6059 [egg-security] use csrf middleware
+2021-11-13 10:39:16,615 INFO 6059 [egg-security] use methodnoallow middleware
+2021-11-13 10:39:16,616 INFO 6059 [egg-security] use noopen middleware
+2021-11-13 10:39:16,617 INFO 6059 [egg-security] use nosniff middleware
+2021-11-13 10:39:16,618 INFO 6059 [egg-security] use xssProtection middleware
+2021-11-13 10:39:16,619 INFO 6059 [egg-security] use xframe middleware
+2021-11-13 10:39:16,619 INFO 6059 [egg-security] use dta middleware
+2021-11-13 10:39:16,619 INFO 6059 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:39:16,642 INFO 6059 [egg:core] dump config after load, 10ms
+2021-11-13 10:39:16,747 INFO 6059 [egg-watcher:application] watcher start success
+2021-11-13 10:39:16,476 INFO 6060 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:39:16,516 INFO 6060 [egg-multipart] stream mode enable
+2021-11-13 10:39:16,685 INFO 6060 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:39:16,690 INFO 6060 [egg-security] use csrf middleware
+2021-11-13 10:39:16,692 INFO 6060 [egg-security] use methodnoallow middleware
+2021-11-13 10:39:16,692 INFO 6060 [egg-security] use noopen middleware
+2021-11-13 10:39:16,693 INFO 6060 [egg-security] use nosniff middleware
+2021-11-13 10:39:16,693 INFO 6060 [egg-security] use xssProtection middleware
+2021-11-13 10:39:16,694 INFO 6060 [egg-security] use xframe middleware
+2021-11-13 10:39:16,694 INFO 6060 [egg-security] use dta middleware
+2021-11-13 10:39:16,694 INFO 6060 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:39:16,922 INFO 6060 [egg:core] dump config after load, 208ms
+2021-11-13 10:39:16,948 INFO 6060 [egg-watcher:application] watcher start success
+2021-11-13 10:39:16,992 INFO 6060 [egg:core] dump config after ready, 27ms
+2021-11-13 10:39:18,544 INFO 6066 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-13 10:39:18,628 INFO 6066 [egg-multipart] stream mode enable
+2021-11-13 10:39:18,861 INFO 6066 [egg-static] starting static serve /public/ -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/public
+2021-11-13 10:39:18,874 INFO 6066 [egg-security] use csrf middleware
+2021-11-13 10:39:18,876 INFO 6066 [egg-security] use methodnoallow middleware
+2021-11-13 10:39:18,877 INFO 6066 [egg-security] use noopen middleware
+2021-11-13 10:39:18,879 INFO 6066 [egg-security] use nosniff middleware
+2021-11-13 10:39:18,884 INFO 6066 [egg-security] use xssProtection middleware
+2021-11-13 10:39:18,885 INFO 6066 [egg-security] use xframe middleware
+2021-11-13 10:39:18,886 INFO 6066 [egg-security] use dta middleware
+2021-11-13 10:39:18,886 INFO 6066 [egg-security] compose 7 middlewares into one security middleware
+2021-11-13 10:39:18,908 INFO 6066 [egg:core] dump config after load, 6ms
+2021-11-13 10:39:18,977 INFO 6066 [egg-watcher:application] watcher start success
+2021-11-13 10:39:18,996 INFO 6066 [egg:core] dump config after ready, 7ms
+2021-11-13 17:47:19,013 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 17:47:19,014 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 18:42:35,017 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 18:42:35,030 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 18:57:41,789 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 18:57:41,843 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 19:12:43,875 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 19:12:43,901 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 19:23:42,802 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 19:23:42,804 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 19:33:40,748 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 19:33:40,753 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 19:54:37,644 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 19:54:37,667 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 20:10:25,896 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 20:10:26,038 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 20:22:37,780 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 20:22:37,781 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 20:32:50,836 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 20:32:50,837 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 20:43:03,845 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 20:43:03,877 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 20:53:16,727 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 20:53:16,753 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:03:29,724 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:03:29,725 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:13:40,696 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:13:40,697 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:23:53,635 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:23:53,641 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:34:06,706 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:34:06,708 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:44:19,839 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:44:19,844 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 21:54:32,652 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 21:54:32,653 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 22:04:47,810 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 22:04:48,082 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 22:15:02,668 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 22:15:02,683 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-13 22:25:14,824 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-13 22:25:14,840 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-14 00:05:40,887 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-14 00:05:40,953 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-14 00:05:42,165 INFO 6066 [egg-logrotator] clean all log before 31 days
+2021-11-14 00:05:42,259 INFO 6066 [egg-logrotator] broadcast log-reload
+2021-11-14 00:05:42,260 INFO 6066 [egg-logrotator] rotate files success by DayRotator, files ["/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/common-error.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/common-error.log.2021-11-13","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/hzadmin-web.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/hzadmin-web.log.2021-11-13","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-web.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-web.log.2021-11-13","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-schedule.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-schedule.log.2021-11-13","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-agent.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-agent.log.2021-11-13"]

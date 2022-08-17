@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <script>
+      window.onerror = function (msg, url, lineNumber, columNumber, errorObj) {
+        console.log(msg);
+        console.log(url);
+        console.log(lineNumber);
+        console.log(columNumber);
+        console.log(errorObj.stack);
+        return true;
+      };
+
+      test();
+
+      // promise未处理的reject
+      //   window.onunhandledrejection = function (e) {
+      //     var errorMsg = '';
+      //     var errorStack = '';
+      //     if (typeof e.reason === 'object') {
+      //       errorMsg = e.reason.message;
+      //       errorStack = e.reason.stack;
+      //     } else {
+      //       errorMsg = e.reason;
+      //       errorStack = '';
+      //     }
+      // 分类解析
+      // siftAndMakeUpMessage(
+      //   'on_error',
+      //   errorMsg,
+      //   WEB_LOCATION,
+      //   0,
+      //   0,
+      //   'UncaughtInPromiseError: ' + errorStack
+      // );
+      //};
+    </script>
+  </head>
+  <body></body>
+</html>

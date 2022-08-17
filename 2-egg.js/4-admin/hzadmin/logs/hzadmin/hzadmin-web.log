@@ -1,0 +1,185 @@
+2021-12-14 10:58:54,487 ERROR 3496 [-/127.0.0.1/-/11ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3496
+hostname: localhost
+
+2021-12-14 11:00:00,196 ERROR 3580 [-/127.0.0.1/-/15ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3580
+hostname: localhost
+
+2021-12-14 11:02:24,808 ERROR 3580 [-/127.0.0.1/-/5ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3580
+hostname: localhost
+
+2021-12-14 14:18:20,149 WARN 8796 [-/127.0.0.1/-/29ms POST /register] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:18:20,152 WARN 8796 [-/127.0.0.1/-/31ms POST /register] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 8796
+hostname: localhost
+
+2021-12-14 14:22:27,417 WARN 8796 [-/127.0.0.1/-/1ms POST /register] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:22:27,417 WARN 8796 [-/127.0.0.1/-/1ms POST /register] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 8796
+hostname: localhost
+
+2021-12-14 14:31:20,451 WARN 9082 [-/127.0.0.1/-/18ms POST /register] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:31:20,463 WARN 9082 [-/127.0.0.1/-/29ms POST /register] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 9082
+hostname: localhost
+
+2021-12-14 14:34:23,648 WARN 9082 [-/127.0.0.1/-/1ms POST /register] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:34:23,648 WARN 9082 [-/127.0.0.1/-/1ms POST /register] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 9082
+hostname: localhost
+
+2021-12-14 14:34:51,742 WARN 9082 [-/127.0.0.1/-/1ms POST /register] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:34:51,742 WARN 9082 [-/127.0.0.1/-/1ms POST /register] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 9082
+hostname: localhost
+
+2021-12-14 14:39:03,776 WARN 9082 [-/127.0.0.1/-/0ms POST /register] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-12-14 14:39:03,777 WARN 9082 [-/127.0.0.1/-/0ms POST /register] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 9082
+hostname: localhost
+
+2021-12-14 15:01:57,088 ERROR 10031 [-/127.0.0.1/-/1ms GET /] nodejs.ER_BAD_DB_ERRORError: ER_BAD_DB_ERROR: Unknown database 'cgs_20'
+    at Handshake.Sequence._packetToError (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_BAD_DB_ERROR"
+errno: 1049
+sqlMessage: "Unknown database 'cgs_20'"
+sqlState: "42000"
+fatal: true
+name: "ER_BAD_DB_ERRORError"
+pid: 10031
+hostname: localhost
+

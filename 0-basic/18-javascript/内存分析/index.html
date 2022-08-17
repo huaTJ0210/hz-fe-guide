@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+  <script>
+    let array = []
+    function createNodes() {
+      let div
+      let i = 100
+      let fragment = document.createDocumentFragment()
+      for (; i > 0; i--) {
+        div = document.createElement('div')
+        div.appendChild(document.createTextNode(i))
+        fragment.appendChild(div)
+      }
+      document.body.appendChild(fragment)
+    }
+    function badCode() {
+      array.push([...Array(100000).keys()])
+      createNodes()
+      setTimeout(badCode, 2000)
+    }
+    badCode()
+    /*
+     Chrome Devtool 
+     +  performance --> memory 
+       - JS Heap
+       - Nodes
+       - listeners
+       - GPU Memory
+
+     Memory
+       - snapshot 查看当前内存分配占有的最大量（变量）
+    
+    */
+  </script>
+</html>

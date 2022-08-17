@@ -1,0 +1,4 @@
+node.js: console.log
+node.js: console.info
+label: 5.388ms
+{"name":"zhang","age":18,"sex":"man"}

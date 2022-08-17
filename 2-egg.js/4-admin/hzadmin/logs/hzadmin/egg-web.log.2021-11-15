@@ -1,0 +1,33 @@
+2021-11-15 09:18:29,980 INFO 6066 [egg-logrotator] app logger reload: got log-reload message
+2021-11-15 12:13:19,011 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 12:59:40,013 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 12:59:40,013 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 14:59:50,016 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 14:59:50,016 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 15:34:53,028 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 15:34:53,028 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 16:32:07,013 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 16:32:07,013 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 16:50:08,012 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 16:50:08,012 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 17:12:07,013 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 17:12:07,014 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 18:15:03,014 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 18:15:03,014 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 20:15:14,143 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 20:15:14,527 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 22:15:22,047 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 22:15:22,053 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 22:30:59,287 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 22:30:59,292 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 22:46:51,971 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 22:46:52,003 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 23:02:42,798 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 23:02:42,800 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-15 23:51:23,875 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-15 23:51:23,883 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-16 08:00:04,046 WARN 6066 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-16 08:00:04,057 WARN 6066 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-16 08:00:05,331 INFO 6066 [egg-logrotator] clean all log before 31 days
+2021-11-16 08:00:05,356 INFO 6066 [egg-logrotator] broadcast log-reload
+2021-11-16 08:00:05,356 INFO 6066 [egg-logrotator] rotate files success by DayRotator, files ["/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/common-error.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/common-error.log.2021-11-15","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/hzadmin-web.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/hzadmin-web.log.2021-11-15","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-web.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-web.log.2021-11-15","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-schedule.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-schedule.log.2021-11-15","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-agent.log -> /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin/egg-agent.log.2021-11-15"]

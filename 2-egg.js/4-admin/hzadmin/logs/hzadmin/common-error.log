@@ -1,0 +1,169 @@
+2021-11-16 08:00:06,100 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 29319889ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 08:51:08,666 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 3061737ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 12:27:41,029 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 1799690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 12:45:21,025 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 959944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 13:05:50,026 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 1088943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 13:25:39,022 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 1028934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-16 13:33:06,013 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 326950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-12-13 16:40:24,577 ERROR 81361 nodejs.ClusterClientNoResponseError: client no response in 71955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 81361
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-12-14 10:55:28,885 ERROR 2770 nodejs.ClusterClientNoResponseError: client no response in 65502ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 2770
+hostname: localhost
+
+2021-12-14 10:56:48,890 ERROR 2770 nodejs.ClusterClientNoResponseError: client no response in 71034ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 2770
+hostname: localhost
+
+2021-12-14 10:58:54,486 ERROR 3496 [-/127.0.0.1/-/11ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3496
+hostname: localhost
+
+2021-12-14 11:00:00,195 ERROR 3580 [-/127.0.0.1/-/15ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3580
+hostname: localhost
+
+2021-12-14 11:02:24,807 ERROR 3580 [-/127.0.0.1/-/5ms GET /login?user_name=1234567&password=1234567] nodejs.AssertionError: invalid status code: 10004
+    at Object.set status [as status] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa/lib/response.js:87:5)
+    at Object.status (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/delegates/index.js:92:31)
+    at errorHandler (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app/middleware/error_handler.js:16:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/koa-session/index.js:41:7)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 3580
+hostname: localhost
+
+2021-12-14 15:01:57,084 ERROR 10031 [-/127.0.0.1/-/1ms GET /] nodejs.ER_BAD_DB_ERRORError: ER_BAD_DB_ERROR: Unknown database 'cgs_20'
+    at Handshake.Sequence._packetToError (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_BAD_DB_ERROR"
+errno: 1049
+sqlMessage: "Unknown database 'cgs_20'"
+sqlState: "42000"
+fatal: true
+name: "ER_BAD_DB_ERRORError"
+pid: 10031
+hostname: localhost
+

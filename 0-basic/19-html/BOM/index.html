@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <script>
+      const getOffset = node => {
+        if (node.nodeType !== 1) {
+          return // 必须是元素节点
+        }
+        // 根据元素节点获取样式集合（部分）
+        let postion = window.getComputedStyle(node)['position']
+      }
+    </script>
+  </head>
+  <body></body>
+</html>

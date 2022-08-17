@@ -1,0 +1,20 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "Hello Koa 2 example with async",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "test",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "koa": "2.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}

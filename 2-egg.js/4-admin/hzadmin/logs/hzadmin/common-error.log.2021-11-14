@@ -1,0 +1,56 @@
+2021-11-14 02:06:14,659 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 7212454ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 03:20:08,271 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 4432696ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 05:20:17,237 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 7208402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 05:43:27,786 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 1390521ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 07:15:08,666 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 5500405ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 09:14:58,015 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 7188971ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-15 09:18:29,477 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 86608502ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+

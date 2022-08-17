@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- html5的离线存储 -->
+<html lang="en" manifest="index.manifest">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      const arrayPrototype = Array.prototype
+      const proxyArrayPrototype = Object.create(arrayPrototype)
+      ;[('push', 'pop', 'shift', 'unshift', 'splice', 'reverse', 'sort')].forEach(method => {
+        const originMethod = arrayPrototype[method]
+        Object.defineProperty(proxyArrayPrototype, method, {
+          value: function (...args) {
+            return originMethod.apply(this, args)
+          },
+          enumerable: false,
+          writable: true,
+          configurable: true
+        })
+      })
+    </script>
+  </head>
+  <body></body>
+</html>

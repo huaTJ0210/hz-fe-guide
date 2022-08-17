@@ -1,0 +1,240 @@
+2021-11-13 10:24:33,774 INFO 5648 [egg:logger] init all loggers with options: {"dir":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/logs/hzadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hzadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-11-13 10:24:33,787 INFO 5648 [egg:core] dump config after load, 7ms
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: ["/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/mocks","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/mocks_proxy","/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app.js"]
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: "/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app"
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: "/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config"
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: "/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/mocks"
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: "/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/mocks_proxy"
+2021-11-13 10:24:33,880 INFO 5648 [egg-watcher] Start watching: "/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/app.js"
+2021-11-13 10:24:33,884 INFO 5648 [egg-watcher:agent] watcher start success
+2021-11-13 10:24:34,073 INFO 5648 [egg:core] dump config after ready, 149ms
+2021-11-13 10:35:58,315 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:35:58,109 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":681,"blocks":8,"atimeMs":1636770199658.841,"mtimeMs":1636770958044.201,"ctimeMs":1636770958044.201,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:23:19.659Z","mtime":"2021-11-13T02:35:58.044Z","ctime":"2021-11-13T02:35:58.044Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:01,972 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:01,720 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":689,"blocks":8,"atimeMs":1636770961719.9436,"mtimeMs":1636770961710.0476,"ctimeMs":1636770961710.0476,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:01.720Z","mtime":"2021-11-13T02:36:01.710Z","ctime":"2021-11-13T02:36:01.710Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:01,771 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":689,"blocks":8,"atimeMs":1636770961719.9436,"mtimeMs":1636770961710.0476,"ctimeMs":1636770961710.0476,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:01.720Z","mtime":"2021-11-13T02:36:01.710Z","ctime":"2021-11-13T02:36:01.710Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:03,647 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:03,385 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":683,"blocks":8,"atimeMs":1636770962811.5017,"mtimeMs":1636770963360.7249,"ctimeMs":1636770963360.7249,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:02.812Z","mtime":"2021-11-13T02:36:03.361Z","ctime":"2021-11-13T02:36:03.361Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:03,442 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":683,"blocks":8,"atimeMs":1636770962811.5017,"mtimeMs":1636770963360.7249,"ctimeMs":1636770963360.7249,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:02.812Z","mtime":"2021-11-13T02:36:03.361Z","ctime":"2021-11-13T02:36:03.361Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:07,438 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:07,184 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":680,"blocks":8,"atimeMs":1636770966684.905,"mtimeMs":1636770967173.7183,"ctimeMs":1636770967173.7183,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:06.685Z","mtime":"2021-11-13T02:36:07.174Z","ctime":"2021-11-13T02:36:07.174Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:07,235 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":680,"blocks":8,"atimeMs":1636770966684.905,"mtimeMs":1636770967173.7183,"ctimeMs":1636770967173.7183,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:06.685Z","mtime":"2021-11-13T02:36:07.174Z","ctime":"2021-11-13T02:36:07.174Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:12,548 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:12,296 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":690,"blocks":8,"atimeMs":1636770967782.017,"mtimeMs":1636770972284.0713,"ctimeMs":1636770972284.0713,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:07.782Z","mtime":"2021-11-13T02:36:12.284Z","ctime":"2021-11-13T02:36:12.284Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:12,346 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":690,"blocks":8,"atimeMs":1636770967782.017,"mtimeMs":1636770972284.0713,"ctimeMs":1636770972284.0713,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:07.782Z","mtime":"2021-11-13T02:36:12.284Z","ctime":"2021-11-13T02:36:12.284Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:14,496 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":692,"blocks":8,"atimeMs":1636770972912.9622,"mtimeMs":1636770974486.5908,"ctimeMs":1636770974486.5908,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:12.913Z","mtime":"2021-11-13T02:36:14.487Z","ctime":"2021-11-13T02:36:14.487Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:14,697 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:18,327 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:36:18,070 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":695,"blocks":8,"atimeMs":1636770975000.4536,"mtimeMs":1636770978058.3408,"ctimeMs":1636770978058.3408,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:15.000Z","mtime":"2021-11-13T02:36:18.058Z","ctime":"2021-11-13T02:36:18.058Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:36:18,122 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":695,"blocks":8,"atimeMs":1636770975000.4536,"mtimeMs":1636770978058.3408,"ctimeMs":1636770978058.3408,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:15.000Z","mtime":"2021-11-13T02:36:18.058Z","ctime":"2021-11-13T02:36:18.058Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:43,577 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:37:43,375 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":704,"blocks":8,"atimeMs":1636771009605.4727,"mtimeMs":1636771063312.9595,"ctimeMs":1636771063312.9595,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:36:49.605Z","mtime":"2021-11-13T02:37:43.313Z","ctime":"2021-11-13T02:37:43.313Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:46,547 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:37:46,342 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":708,"blocks":8,"atimeMs":1636771066081.8298,"mtimeMs":1636771066331.4941,"ctimeMs":1636771066331.4941,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:37:46.082Z","mtime":"2021-11-13T02:37:46.331Z","ctime":"2021-11-13T02:37:46.331Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:50,664 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:37:50,408 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":712,"blocks":8,"atimeMs":1636771070264.465,"mtimeMs":1636771070395.0781,"ctimeMs":1636771070395.0781,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:37:50.264Z","mtime":"2021-11-13T02:37:50.395Z","ctime":"2021-11-13T02:37:50.395Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:50,458 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":712,"blocks":8,"atimeMs":1636771070264.465,"mtimeMs":1636771070395.0781,"ctimeMs":1636771070395.0781,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:37:50.264Z","mtime":"2021-11-13T02:37:50.395Z","ctime":"2021-11-13T02:37:50.395Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:59,899 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":725,"blocks":8,"atimeMs":1636771071383.969,"mtimeMs":1636771079887.301,"ctimeMs":1636771079887.301,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:37:51.384Z","mtime":"2021-11-13T02:37:59.887Z","ctime":"2021-11-13T02:37:59.887Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:37:59,948 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":725,"blocks":8,"atimeMs":1636771071383.969,"mtimeMs":1636771079887.301,"ctimeMs":1636771079887.301,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:37:51.384Z","mtime":"2021-11-13T02:37:59.887Z","ctime":"2021-11-13T02:37:59.887Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:00,150 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:29,913 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:29,706 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":728,"blocks":8,"atimeMs":1636771081702.594,"mtimeMs":1636771109639.7588,"ctimeMs":1636771109639.7588,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:01.703Z","mtime":"2021-11-13T02:38:29.640Z","ctime":"2021-11-13T02:38:29.640Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:36,735 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:36,485 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":734,"blocks":8,"atimeMs":1636771111365.5652,"mtimeMs":1636771116476.3323,"ctimeMs":1636771116476.3323,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:31.366Z","mtime":"2021-11-13T02:38:36.476Z","ctime":"2021-11-13T02:38:36.476Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:36,534 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":734,"blocks":8,"atimeMs":1636771111365.5652,"mtimeMs":1636771116476.3323,"ctimeMs":1636771116476.3323,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:31.366Z","mtime":"2021-11-13T02:38:36.476Z","ctime":"2021-11-13T02:38:36.476Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:41,043 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":750,"blocks":8,"atimeMs":1636771118086.338,"mtimeMs":1636771121033.1228,"ctimeMs":1636771121033.1228,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:38.086Z","mtime":"2021-11-13T02:38:41.033Z","ctime":"2021-11-13T02:38:41.033Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:41,094 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":750,"blocks":8,"atimeMs":1636771118086.338,"mtimeMs":1636771121033.1228,"ctimeMs":1636771121033.1228,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:38.086Z","mtime":"2021-11-13T02:38:41.033Z","ctime":"2021-11-13T02:38:41.033Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:41,295 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:42,161 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:41,784 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":0,"blocks":0,"atimeMs":1636771121659.3748,"mtimeMs":1636771121772.422,"ctimeMs":1636771121772.422,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:41.659Z","mtime":"2021-11-13T02:38:41.772Z","ctime":"2021-11-13T02:38:41.772Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:41,957 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":746,"blocks":8,"atimeMs":1636771121659.3748,"mtimeMs":1636771121801.7244,"ctimeMs":1636771121801.7244,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:41.659Z","mtime":"2021-11-13T02:38:41.802Z","ctime":"2021-11-13T02:38:41.802Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:46,441 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:38:46,190 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":752,"blocks":8,"atimeMs":1636771122400.1345,"mtimeMs":1636771126174.8643,"ctimeMs":1636771126174.8643,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:42.400Z","mtime":"2021-11-13T02:38:46.175Z","ctime":"2021-11-13T02:38:46.175Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:38:46,241 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":752,"blocks":8,"atimeMs":1636771122400.1345,"mtimeMs":1636771126174.8643,"ctimeMs":1636771126174.8643,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:42.400Z","mtime":"2021-11-13T02:38:46.175Z","ctime":"2021-11-13T02:38:46.175Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:06,452 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:39:06,251 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":754,"blocks":8,"atimeMs":1636771126285.5671,"mtimeMs":1636771146190.7415,"ctimeMs":1636771146190.7415,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:38:46.286Z","mtime":"2021-11-13T02:39:06.191Z","ctime":"2021-11-13T02:39:06.191Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:07,811 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:39:07,559 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":755,"blocks":8,"atimeMs":1636771146815.368,"mtimeMs":1636771147548.7817,"ctimeMs":1636771147548.7817,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:06.815Z","mtime":"2021-11-13T02:39:07.549Z","ctime":"2021-11-13T02:39:07.549Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:07,609 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":755,"blocks":8,"atimeMs":1636771146815.368,"mtimeMs":1636771147548.7817,"ctimeMs":1636771147548.7817,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:06.815Z","mtime":"2021-11-13T02:39:07.549Z","ctime":"2021-11-13T02:39:07.549Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:10,987 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":761,"blocks":8,"atimeMs":1636771148164.5012,"mtimeMs":1636771150977.366,"ctimeMs":1636771150977.366,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:08.165Z","mtime":"2021-11-13T02:39:10.977Z","ctime":"2021-11-13T02:39:10.977Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:11,037 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":761,"blocks":8,"atimeMs":1636771148164.5012,"mtimeMs":1636771150977.366,"ctimeMs":1636771150977.366,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:08.165Z","mtime":"2021-11-13T02:39:10.977Z","ctime":"2021-11-13T02:39:10.977Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:11,240 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:39:12,016 WARN 5648 [agent:development] reload worker because /Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js change
+2021-11-13 10:39:11,760 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":761,"blocks":8,"atimeMs":1636771151600.2893,"mtimeMs":1636771151756.0874,"ctimeMs":1636771151756.0874,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:11.600Z","mtime":"2021-11-13T02:39:11.756Z","ctime":"2021-11-13T02:39:11.756Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 10:39:11,811 INFO 5648 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/config/config.default.js","stat":{"dev":16777225,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8665716140,"size":761,"blocks":8,"atimeMs":1636771151600.2893,"mtimeMs":1636771151756.0874,"ctimeMs":1636771151756.0874,"birthtimeMs":1636706440296.5247,"atime":"2021-11-13T02:39:11.600Z","mtime":"2021-11-13T02:39:11.756Z","ctime":"2021-11-13T02:39:11.756Z","birthtime":"2021-11-12T08:40:40.297Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-11-13 17:47:19,019 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 292693ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 18:42:35,028 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 3295025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 18:57:41,882 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 905778ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 19:12:43,823 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 901836ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 19:23:42,555 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 658281ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 19:33:40,808 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 577337ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 19:54:37,647 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 1216462ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 20:10:25,859 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 907684ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 20:22:37,805 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 711500ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 20:32:50,674 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 571642ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 20:43:03,957 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 572562ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 20:53:16,655 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 572416ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:03:29,612 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 572443ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:13:40,705 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 570534ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:23:53,603 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 572238ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:34:07,623 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 572635ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:44:19,842 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 571828ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 21:54:32,659 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 571971ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 22:04:48,057 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 574529ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 22:15:02,637 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 574135ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-13 22:25:14,650 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 570847ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
+2021-11-14 00:05:41,997 ERROR 5648 nodejs.ClusterClientNoResponseError: client no response in 5985044ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huatianjie/Desktop/Front-end-engineer/03-Web/06-node/Node/0-basic/2-egg.js/4-admin/hzadmin/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5648
+hostname: huatianjiedeMacBook-Pro.local
+
