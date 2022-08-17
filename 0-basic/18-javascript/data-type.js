@@ -77,7 +77,8 @@ const foo = {
 
 /*
   + 空值合并运算符：  xx ?? 'defaultValue'
-  + 可选链式操作符： user?.friend?.name 
+  + 可选链式操作符： user?.friend?.name  ： 
+   babel的处理是先判断user是否为null 然后再将user.friend赋值给一个临时变量user$friend
 */
 
 const obj = {
